@@ -107,19 +107,13 @@
   font-size: 16px;
   line-height: 20px;
   color: #838383;
+  padding-right: 80px;
+  padding-bottom: 40px;
+  padding-left: 80px;
 }
 
 .header__paragraph {
   margin: 0;
-}
-.header__schedules {
-  margin-left: 80px;
-  margin-bottom: 40px;
-}
-.header__address {
-  margin-top: auto;
-  margin-right: 80px;
-  margin-bottom: 40px;
 }
 
 .recipes {
@@ -175,6 +169,7 @@
 .recipes__video-caption {
   margin-top: 24px;
   display: flex;
+  justify-content: space-between;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
