@@ -262,9 +262,10 @@
   height: 20px;
   width: 20px;
   padding: 0;
+  margin: 0;
 }
 
-.reservation__form-input .form__label-checkbox {
+.reservation__form .reservation__form-check {
   display: flex;
   justify-content: center;
   align-items: center;
