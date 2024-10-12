@@ -190,10 +190,8 @@
   display: flex;
   justify-content: center;
   padding-top: 100px;
-  margin-bottom: 80px;
-  margin-top: 0;
-  margin-right: 0;
-  margin-left: 0;
+  padding-bottom: 80px;
+  margin: auto;
   font-family: Inter;
   font-style: normal;
   font-weight: 500;
